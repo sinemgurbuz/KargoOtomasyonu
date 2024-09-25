@@ -1,0 +1,429 @@
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Elif\Desktop\deneme\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\berda\Desktop\proje\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Kullnıcı.resources
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Kullnıcı.resources
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_form.resources
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Elif\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\b\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Kullnıcı.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_form.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\aaa\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_ekrani.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_ekrani.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\asd\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_ekrani.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici_ekranı.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (4)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_ekrani.resources
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici_ekranı.resources
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Elif\Source\Repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_ekrani.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici_ekranı.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (8)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_ekrani.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici_ekranı.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör (9)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\berda\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici_ekranı.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.Odbc.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.OleDb.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Ports.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Permissions.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kullanici_ekrani.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.uye_ol.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.yonetici_ekranı.resources
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Fody.CopyLocal.cache
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sinem\source\repos\gorsel-programlama-donem-projesi-202-kargo-otomasyonu\Yeni klasör\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
